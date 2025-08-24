@@ -1,1 +1,3 @@
-# iris-dashboard
+🌺 Iris Dataset Dashboard
+
+This project is an interactive Streamlit application built to explore the classic Iris dataset. It allows users to filter data by species and feature ranges, visualize relationships between features using scatter plots, histograms, box plots, violin plots, correlation heatmaps, pair plots, and even a 3D scatter plot with Plotly. The app also provides options to view raw data, download filtered results as a CSV file, and display summary statistics both for the entire dataset and by species. To run the project, clone the repository, install the required dependencies from the requirements file, and start the app using streamlit run app.py. The Iris dataset used here contains measurements of sepal length, sepal width, petal length, and petal width for three flower species: Setosa, Versicolor, and Virginica.
